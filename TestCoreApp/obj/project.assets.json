@@ -10692,11 +10692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\ASP.NET Core\\MVC\\TestCoreApp\\TestCoreApp\\TestCoreApp.csproj",
+      "projectUniqueName": "E:\\GitHup\\Amazon_E-Commerce\\Amazon_E-CommerceMVC\\TestCoreApp\\TestCoreApp.csproj",
       "projectName": "TestCoreApp",
-      "projectPath": "E:\\Projects\\ASP.NET Core\\MVC\\TestCoreApp\\TestCoreApp\\TestCoreApp.csproj",
+      "projectPath": "E:\\GitHup\\Amazon_E-Commerce\\Amazon_E-CommerceMVC\\TestCoreApp\\TestCoreApp.csproj",
       "packagesPath": "C:\\Users\\United\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\ASP.NET Core\\MVC\\TestCoreApp\\TestCoreApp\\obj\\",
+      "outputPath": "E:\\GitHup\\Amazon_E-Commerce\\Amazon_E-CommerceMVC\\TestCoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\United\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestCoreApp
 build_property.RootNamespace = TestCoreApp
-build_property.ProjectDir = E:\Projects\ASP.NET Core\MVC\TestCoreApp\TestCoreApp\
+build_property.ProjectDir = E:\GitHup\Amazon_E-Commerce\Amazon_E-CommerceMVC\TestCoreApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Projects\ASP.NET Core\MVC\TestCoreApp\TestCoreApp
+build_property.MSBuildProjectDirectory = E:\GitHup\Amazon_E-Commerce\Amazon_E-CommerceMVC\TestCoreApp
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Projects/ASP.NET Core/MVC/TestCoreApp/TestCoreApp/Views/Home/Index.cshtml]
+[E:/GitHup/Amazon_E-Commerce/Amazon_E-CommerceMVC/TestCoreApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.NET Core/MVC/TestCoreApp/TestCoreApp/Views/Home/Privacy.cshtml]
+[E:/GitHup/Amazon_E-Commerce/Amazon_E-CommerceMVC/TestCoreApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.NET Core/MVC/TestCoreApp/TestCoreApp/Views/Items/Delete.cshtml]
+[E:/GitHup/Amazon_E-Commerce/Amazon_E-CommerceMVC/TestCoreApp/Views/Items/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.NET Core/MVC/TestCoreApp/TestCoreApp/Views/Items/Edit.cshtml]
+[E:/GitHup/Amazon_E-Commerce/Amazon_E-CommerceMVC/TestCoreApp/Views/Items/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.NET Core/MVC/TestCoreApp/TestCoreApp/Views/Items/Index.cshtml]
+[E:/GitHup/Amazon_E-Commerce/Amazon_E-CommerceMVC/TestCoreApp/Views/Items/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.NET Core/MVC/TestCoreApp/TestCoreApp/Views/Items/New.cshtml]
+[E:/GitHup/Amazon_E-Commerce/Amazon_E-CommerceMVC/TestCoreApp/Views/Items/New.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcTmV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.NET Core/MVC/TestCoreApp/TestCoreApp/Views/Shared/Error.cshtml]
+[E:/GitHup/Amazon_E-Commerce/Amazon_E-CommerceMVC/TestCoreApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.NET Core/MVC/TestCoreApp/TestCoreApp/Views/Shared/_Notifications.cshtml]
+[E:/GitHup/Amazon_E-Commerce/Amazon_E-CommerceMVC/TestCoreApp/Views/Shared/_Notifications.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.NET Core/MVC/TestCoreApp/TestCoreApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/GitHup/Amazon_E-Commerce/Amazon_E-CommerceMVC/TestCoreApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.NET Core/MVC/TestCoreApp/TestCoreApp/Views/_ViewImports.cshtml]
+[E:/GitHup/Amazon_E-Commerce/Amazon_E-CommerceMVC/TestCoreApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.NET Core/MVC/TestCoreApp/TestCoreApp/Views/_ViewStart.cshtml]
+[E:/GitHup/Amazon_E-Commerce/Amazon_E-CommerceMVC/TestCoreApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.NET Core/MVC/TestCoreApp/TestCoreApp/Views/Shared/_Layout.cshtml]
+[E:/GitHup/Amazon_E-Commerce/Amazon_E-CommerceMVC/TestCoreApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4t5bctqp1s

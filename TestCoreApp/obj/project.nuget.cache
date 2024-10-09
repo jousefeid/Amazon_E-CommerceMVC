@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XrKCAQpMaoc=",
+  "dgSpecHash": "J7GkWOpBER8=",
   "success": true,
-  "projectFilePath": "E:\\Projects\\ASP.NET Core\\MVC\\TestCoreApp\\TestCoreApp\\TestCoreApp.csproj",
+  "projectFilePath": "E:\\GitHup\\Amazon_E-Commerce\\Amazon_E-CommerceMVC\\TestCoreApp\\TestCoreApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\United\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\United\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
